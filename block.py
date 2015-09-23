@@ -1,3 +1,8 @@
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
+
+# Original version copied from http://stackoverflow.com/a/245072/4486860
+
 def block(ch):
   '''
   Return the Unicode block name for ch, or None if ch has no block.
